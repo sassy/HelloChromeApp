@@ -1,0 +1,4 @@
+HelloChromeApp
+==============
+
+ChromeAppのひな形
